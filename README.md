@@ -1,2 +1,2 @@
-# MenzAlex.github.io
+# menzarev
 Мій перший сайт
